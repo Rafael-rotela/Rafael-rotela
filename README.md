@@ -1,6 +1,12 @@
 ## Rafael Rotela
 
-   Me chamo Rafael, tenho 20 anos e sou de Campo Grande-MS. Sou fascinado em tecnologia e praticidade que a tecnologia me deu parar criar e desenvolver, por isso  estou cursando Engenharia de software na Unigran e cursando Técnico em Desenvolvimento de Sistemas no Senac.
+    👋 Olá! Sou um estudante de Tecnologia da Informação em constante evolução.
+
+Tenho foco em desenvolver uma base sólida em lógica de programação, estrutura de dados e boas práticas de desenvolvimento. Busco entender o *porquê* das soluções, não apenas fazê-las funcionar.
+
+Atualmente, estou aprimorando minhas habilidades em programação, versionamento de código e resolução de problemas, sempre com o objetivo de criar soluções eficientes, escaláveis e bem estruturadas.
+
+💡 *Transformando problemas em soluções através da tecnologia.*
 
 <div>
    <a href="https://www.instagram.com/rafael._.rjv1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
