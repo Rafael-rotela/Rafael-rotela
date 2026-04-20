@@ -1,10 +1,9 @@
 ## Rafael Rotela
 
-Tenho foco em desenvolver uma base sólida em lógica de programação, estrutura de dados e boas práticas de desenvolvimento. Busco entender o *porquê* das soluções, não apenas fazê-las funcionar.
+  Atualmente, estou cursando Engenharia de Software e dedico meus estudos para me tornar um
+  desenvolvedor fullstack de alto nível. Além disso, estou em busca de novos desafios que me façam
+  sair da zona de conforto, aprimorando assim minhas habilidades.
 
-Atualmente, estou aprimorando minhas habilidades em programação, versionamento de código e resolução de problemas, sempre com o objetivo de criar soluções eficientes, escaláveis e bem estruturadas.
-
-💡 *Transformando problemas em soluções através da tecnologia.*
 
 <div>
    <a href="https://www.instagram.com/rafael._.rjv1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
